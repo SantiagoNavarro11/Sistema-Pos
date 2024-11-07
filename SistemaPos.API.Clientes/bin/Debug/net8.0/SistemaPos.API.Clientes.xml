@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SistemaPos.API.Clientes</name>
+    </assembly>
+    <members>
+        <member name="M:SistemaPos.API.Clientes.Controllers.ClientesController.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+             Inicializa una instancia de la clase <see cref="T:SistemaPos.API.Clientes.Controllers.ClientesController"/> 
+            </summary>
+        </member>
+        <member name="M:SistemaPos.API.Clientes.Controllers.ClientesController.Consultar(System.String,System.String)">
+            <summary>
+            Obtiene la infomacion de un cliente
+            </summary>
+            <param name="NumeroIde">Numero de identificacion del Cliente.</param>
+            <param name="NombreCliente">Nombre del Cliente.</param>
+            <returns>Resultado de la operación</returns>
+        </member>
+        <member name="M:SistemaPos.API.Clientes.Controllers.ClientesController.Guardar(SistemaPos.DTO.ClienteDto)">
+            <summary>
+            Guardar la informacion de un Cliente nuevo o existente.
+            </summary>
+            <param name="cliente">Informacion del Cliente a actualizar</param>
+            <returns>Resultado de la operación.</returns>
+        </member>
+        <member name="M:SistemaPos.API.Clientes.Controllers.ClientesController.Eliminar(System.Int32)">
+            <summary>
+            Elimina un cliente existente.
+            </summary>
+            <param name="Idcliente">Id del cliente a eliminar.</param>
+            <returns>Resultado de la operación</returns>
+        </member>
+    </members>
+</doc>

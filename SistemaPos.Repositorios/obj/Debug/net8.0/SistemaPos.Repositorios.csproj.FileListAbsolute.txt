@@ -1,0 +1,17 @@
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.csproj.AssemblyReference.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.AssemblyInfoInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.AssemblyInfo.cs
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.csproj.CoreCompileInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.Repositorios.deps.json
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.Repositorios.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.Repositorios.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.ConexionBaseDatos.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.Entidades.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.ConexionBaseDatos.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\bin\Debug\net8.0\SistemaPos.Entidades.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaP.7FD7EFD7.Up2Date
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\refint\SistemaPos.Repositorios.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\SistemaPos.Repositorios.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Repositorios\obj\Debug\net8.0\ref\SistemaPos.Repositorios.dll

@@ -1,0 +1,6 @@
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\bin\Release\net8.0\CoverletSourceRootsMapping_SistemaPos.Pruebas
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\obj\Release\net8.0\SistemaPos.Pruebas.csproj.AssemblyReference.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\obj\Release\net8.0\SistemaPos.Pruebas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\obj\Release\net8.0\SistemaPos.Pruebas.AssemblyInfoInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\obj\Release\net8.0\SistemaPos.Pruebas.AssemblyInfo.cs
+E:\Repositorios\SistemaPOS\SistemaPos.Pruebas\obj\Release\net8.0\SistemaPos.Pruebas.csproj.CoreCompileInputs.cache

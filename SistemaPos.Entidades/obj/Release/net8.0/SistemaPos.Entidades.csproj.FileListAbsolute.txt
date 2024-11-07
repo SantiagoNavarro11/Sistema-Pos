@@ -1,0 +1,11 @@
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\bin\Release\net8.0\SistemaPos.Entidades.deps.json
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\bin\Release\net8.0\SistemaPos.Entidades.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\bin\Release\net8.0\SistemaPos.Entidades.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.AssemblyInfoInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.AssemblyInfo.cs
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.csproj.CoreCompileInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\refint\SistemaPos.Entidades.dll
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\SistemaPos.Entidades.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.Entidades\obj\Release\net8.0\ref\SistemaPos.Entidades.dll

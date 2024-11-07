@@ -1,0 +1,15 @@
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\bin\Debug\net8.0\SistemaPos.DTO.deps.json
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\bin\Debug\net8.0\SistemaPos.DTO.dll
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\bin\Debug\net8.0\SistemaPos.DTO.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\bin\Debug\net8.0\SistemaPos.Entidades.dll
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\bin\Debug\net8.0\SistemaPos.Entidades.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.csproj.AssemblyReference.cache
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.AssemblyInfoInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.AssemblyInfo.cs
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.csproj.CoreCompileInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaP.9E3B2C62.Up2Date
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.dll
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\refint\SistemaPos.DTO.dll
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\SistemaPos.DTO.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.DTO\obj\Debug\net8.0\ref\SistemaPos.DTO.dll

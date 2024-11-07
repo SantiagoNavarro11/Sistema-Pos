@@ -1,0 +1,75 @@
+[
+  {
+    "ContainingType": "SistemaPos.API.Clientes.Controllers.ClientesController",
+    "Method": "Consultar",
+    "RelativePath": "api/clientes/Consultar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NumeroIde",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombreCliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[SistemaPos.DTO.ClienteDto, SistemaPos.DTO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SistemaPos.API.Clientes.Controllers.ClientesController",
+    "Method": "Eliminar",
+    "RelativePath": "api/clientes/Eliminar",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaPos.API.Clientes.Controllers.ClientesController",
+    "Method": "Guardar",
+    "RelativePath": "api/clientes/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteDto",
+        "Type": "SistemaPos.DTO.ClienteDto",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

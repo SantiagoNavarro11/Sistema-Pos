@@ -1,0 +1,6 @@
+@SistemaPos.API.Clientes_HostAddress = http://localhost:5103
+
+GET {{SistemaPos.API.Clientes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

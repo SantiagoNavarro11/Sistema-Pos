@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hpN4KjSXwbvZZkFmQe2ZIUraD4sHKok8uf2hGJPUtgQ=",
+  "Source": "SistemaPos.API.Clientes",
+  "BasePath": "_content/SistemaPos.API.Clientes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

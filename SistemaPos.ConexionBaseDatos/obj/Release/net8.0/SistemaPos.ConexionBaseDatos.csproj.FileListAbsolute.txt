@@ -1,0 +1,12 @@
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\bin\Release\net8.0\SistemaPos.ConexionBaseDatos.deps.json
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\bin\Release\net8.0\SistemaPos.ConexionBaseDatos.dll
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\bin\Release\net8.0\SistemaPos.ConexionBaseDatos.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.csproj.AssemblyReference.cache
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.AssemblyInfoInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.AssemblyInfo.cs
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.csproj.CoreCompileInputs.cache
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.dll
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\refint\SistemaPos.ConexionBaseDatos.dll
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\SistemaPos.ConexionBaseDatos.pdb
+E:\Repositorios\SistemaPOS\SistemaPos.ConexionBaseDatos\obj\Release\net8.0\ref\SistemaPos.ConexionBaseDatos.dll

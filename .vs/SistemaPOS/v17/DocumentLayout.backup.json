@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repositorios\\SistemaPOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93BD8F81-6DFA-4083-9A01-98819C53DA5F}|SistemaPos.Entidades\\SistemaPos.Entidades.csproj|e:\\repositorios\\sistemapos\\sistemapos.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BD8F81-6DFA-4083-9A01-98819C53DA5F}|SistemaPos.Entidades\\SistemaPos.Entidades.csproj|solutionrelative:sistemapos.entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|e:\\repositorios\\sistemapos\\sistemaspos.negocio\\negociocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|solutionrelative:sistemaspos.negocio\\negociocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|e:\\repositorios\\sistemapos\\sistemaspos.negocio\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|solutionrelative:sistemaspos.negocio\\sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45934F9A-5E82-4AF4-848A-DB3F70AE552E}|SistemaPos.DTO\\SistemaPos.DTO.csproj|e:\\repositorios\\sistemapos\\sistemapos.dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45934F9A-5E82-4AF4-848A-DB3F70AE552E}|SistemaPos.DTO\\SistemaPos.DTO.csproj|solutionrelative:sistemapos.dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E90975-02CD-4C53-AD49-D82C623C014F}|SistemaPos.API.Clientes\\SistemaPos.API.Clientes.csproj|e:\\repositorios\\sistemapos\\sistemapos.api.clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E90975-02CD-4C53-AD49-D82C623C014F}|SistemaPos.API.Clientes\\SistemaPos.API.Clientes.csproj|solutionrelative:sistemapos.api.clientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93BD8F81-6DFA-4083-9A01-98819C53DA5F}|SistemaPos.Entidades\\SistemaPos.Entidades.csproj|e:\\repositorios\\sistemapos\\sistemapos.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93BD8F81-6DFA-4083-9A01-98819C53DA5F}|SistemaPos.Entidades\\SistemaPos.Entidades.csproj|solutionrelative:sistemapos.entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|e:\\repositorios\\sistemapos\\sistemapos.repositorios\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|solutionrelative:sistemapos.repositorios\\repositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|e:\\repositorios\\sistemapos\\sistemapos.repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|solutionrelative:sistemapos.repositorios\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|e:\\repositorios\\sistemapos\\sistemaspos.negocio\\negocioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670CE08E-A19E-4AC7-B322-011CCDC4310A}|SistemasPos.Negocio\\SistemasPos.Negocio.csproj|solutionrelative:sistemaspos.negocio\\negocioproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F4D307-CFA7-4EC4-9446-4D751163092B}|SistemaPos.ConexionBaseDatos\\SistemaPos.ConexionBaseDatos.csproj|e:\\repositorios\\sistemapos\\sistemapos.conexionbasedatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F4D307-CFA7-4EC4-9446-4D751163092B}|SistemaPos.ConexionBaseDatos\\SistemaPos.ConexionBaseDatos.csproj|solutionrelative:sistemapos.conexionbasedatos\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|e:\\repositorios\\sistemapos\\sistemapos.repositorios\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619595B9-7EE0-4E16-A816-081621FBACF5}|SistemaPos.Repositorios\\SistemaPos.Repositorios.csproj|solutionrelative:sistemapos.repositorios\\repositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sesion.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\Sesion.cs",
+              "RelativeDocumentMoniker": "SistemasPos.Negocio\\Sesion.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\Sesion.cs",
+              "RelativeToolTip": "SistemasPos.Negocio\\Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:09:37.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NegocioProducto.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\NegocioProducto.cs",
+              "RelativeDocumentMoniker": "SistemasPos.Negocio\\NegocioProducto.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\NegocioProducto.cs",
+              "RelativeToolTip": "SistemasPos.Negocio\\NegocioProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:13:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "SistemaPos.Repositorios\\RepositorioBase.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioBase.cs",
+              "RelativeToolTip": "SistemaPos.Repositorios\\RepositorioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:07:25.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioProductos.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioProductos.cs",
+              "RelativeDocumentMoniker": "SistemaPos.Repositorios\\RepositorioProductos.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioProductos.cs",
+              "RelativeToolTip": "SistemaPos.Repositorios\\RepositorioProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:06:52.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaPos.Entidades\\Producto.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Entidades\\Producto.cs",
+              "RelativeToolTip": "SistemaPos.Entidades\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:05:06.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.API.Clientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "SistemaPos.API.Clientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.API.Clientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "SistemaPos.API.Clientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:03:38.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NegocioCliente.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\NegocioCliente.cs",
+              "RelativeDocumentMoniker": "SistemasPos.Negocio\\NegocioCliente.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemasPos.Negocio\\NegocioCliente.cs",
+              "RelativeToolTip": "SistemasPos.Negocio\\NegocioCliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vzEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:16:21.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "SistemaPos.Entidades\\Cliente.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Entidades\\Cliente.cs",
+              "RelativeToolTip": "SistemaPos.Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:15:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositorioCliente.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioCliente.cs",
+              "RelativeDocumentMoniker": "SistemaPos.Repositorios\\RepositorioCliente.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.Repositorios\\RepositorioCliente.cs",
+              "RelativeToolTip": "SistemaPos.Repositorios\\RepositorioCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:16:03.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteDTO.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.DTO\\ClienteDTO.cs",
+              "RelativeDocumentMoniker": "SistemaPos.DTO\\ClienteDTO.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.DTO\\ClienteDTO.cs",
+              "RelativeToolTip": "SistemaPos.DTO\\ClienteDTO.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwBIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:02:38.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "E:\\Repositorios\\SistemaPOS\\SistemaPos.ConexionBaseDatos\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "SistemaPos.ConexionBaseDatos\\ConexionBD.cs",
+              "ToolTip": "E:\\Repositorios\\SistemaPOS\\SistemaPos.ConexionBaseDatos\\ConexionBD.cs",
+              "RelativeToolTip": "SistemaPos.ConexionBaseDatos\\ConexionBD.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:08:33.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
